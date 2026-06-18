@@ -88,10 +88,6 @@ weather-vision-dashboard/
 
 ├── README.md
 
-├── screenshots/
-
-└── assets/
-
 ---
 
 ## ⚙ Installation
