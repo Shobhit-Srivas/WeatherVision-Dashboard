@@ -98,7 +98,7 @@ weather-vision-dashboard/
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/weather-vision-dashboard.git
+git clone https://github.com/Shobhit-Srivas/WeatherVision-Dashboard.git
 
 ### Enter Project Folder
 
